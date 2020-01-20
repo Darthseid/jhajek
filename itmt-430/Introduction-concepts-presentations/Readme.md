@@ -13,7 +13,7 @@ The deliverable will be to create a folder called **intro-concepts** under your 
 * ~2:58 - What is the first principle of Ethics in Software Engineering ~1997
   * Make sure that software is well documented, has the client's approval, and meets the user's requirements.
 * ~5:20 - What is rule 6.10 of Ethics in Software Engineering ~1997
-  * answer here
+  * Follow all of the laws.
 * ~6:45 - With the rise of what in the late 1990s did the first real foreshocks of ethical dilemmas come?
   * Social Media
 * ~7:03 - Which company in 1999 was one of the first to bring an ethical "grey area"?
@@ -54,30 +54,30 @@ The deliverable will be to create a folder called **intro-concepts** under your 
 [Jessica Kerr - Principles of Collaborative Automation](https://www.youtube.com/watch?v=JY4HPhXuWFg&feature=emb_logo "Jessica Kerr - Principles of Collaborative Automation")
 
 * ~1:04 Where did Ms. Kerr's 4 Principles come out of?
-  * answer here
+  * Humans collaborate with people, machines, computers, and programs.
 * ~3:15 What is the difference between developers and everyone else mentioned?
-  * answer here
+  * If software is hard to operate, it is the developer's fault.
 * ~4:15 What is "symmathesy?"
-  * answer here
+  * Humans learning from machines.
 * ~5:57 List and briefly describe the 1st principle of Joint Activity?
-  * answer here
+  * Work together for a mutual purpose until further notice.
 * ~7:26 What is collaboration?
-  * answer here
+  * Brainstorming to fix ideas.
 * ~8:44 What is the difference between, "rely on" vs. "work with"?
-  * answer here
+  * Rely on is about dependency. Work with is about cooperation.
 * ~9:00 What is [Apache Kafka](http://kafka.apache.org/ "Apache Kafka") and what does it do?
-  * answer here
+  * processing software that optimizes bandwidth for data.
 * ~10:25 List and briefly describe the 2nd principle of Joint Activity?
-  * answer here
+  * predicting what other co-workers are going to handle software.
 * ~15:10 List and briefly describe the 3rd principle of Joint Activity?
-  * answer here
+  * Plans are flexible.
 * ~17:45 What is the strange property of negotiations?
-  * answer here
+  * The less flexible negotiator ironically has more power in the negotiating process.
 * ~19:25 List and briefly describe the 4th principle of Joint Activity
-  * answer here
+  * People have a common pool of knowledge that they all share.
 * ~22:36 Increased complexity can be balanced by what?
-  * answer here
+  * More feedback.
 * ~22:48 Success begets what and why?
-  * answer here
+  * More complexity to improve the product.
 * ~24:40 Briefly describe the 4 ironies of automation.
-  * answer here
+  * Weaknesses must be well known. The human must be in charge. Plans must be very predictable. Attention must be carefully managed.
