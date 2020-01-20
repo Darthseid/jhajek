@@ -9,45 +9,45 @@ The deliverable will be to create a folder called **intro-concepts** under your 
 [Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering](https://www.youtube.com/watch?v=0wtvQZijPzg&feature=youtu.be "Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering")
 
 * ~0:45 - Who is the speaker and what is his job at the time of the presentation?
-  * answer here
+  * Bryan Cantrill and his job is to show how Software Engineering has changed over the years.
 * ~2:58 - What is the first principle of Ethics in Software Engineering ~1997
-  * answer here
+  * Make sure that software is well documented, has the client's approval, and meets the user's requirements.
 * ~5:20 - What is rule 6.10 of Ethics in Software Engineering ~1997
   * answer here
 * ~6:45 - With the rise of what in the late 1990s did the first real foreshocks of ethical dilemmas come?
-  * answer here
+  * Social Media
 * ~7:03 - Which company in 1999 was one of the first to bring an ethical "grey area"?
-  * answer here
+  * Napster
 * ~9:20 - In 2003 with the launch of Friendster, the speaker mentions that "Social Networking was born crooked," why did he conclude that?
-  * answer here
+  * The creator made it only so he can get a girlfriend.
 * ~10:08 - In 2011, what was Mark Andreessen's "prophesy"? And was he correct?
-  * answer here
+  * The Internet would disrupt business markets and he was correct.
 * ~12:32 - What was the ethical dilemma Facebook created in 2012 and how did they defend their actions?
-  * answer here
+  * Tjey emotionally manipualted people and they defended it by saying the data was public.
 * ~15:20 -  In 2013, what was the ethical dilemma introduced by Zenefits and what were they avoiding?
-  * answer here
+  * A student wrote a shortcut to skip the licensing training. They were avoiding getting sued.
 * ~17:01 - In 2014, what was the ethical dilemma introduced by Uber in Portland Oregon and who were they deceiving?
-  * answer here
+  * Customer rides were being denied based on location.
 * ~19:07 - In 2015, what was the ethical dilemma introduced by Google Photos mis-labeling and how did AI contribute to it?
-  * answer here
+  * Google photos called Black Americans gorillas by mistake which is obviously racist.
 * ~22:43 - In 2016, what was the ethical dilemma introduced by Tesla?
-  * answer here
+  * Self-driving cars killed a distracted driver.
 * ~25:43 - In 2017, what was the ethical dilemma presented to Facebook?
-  * answer here
+  *  Facebook was used to genocide the Rohingya.
 * ~30:10 - In 2018, what was the ethical dilemma presented to Joyent (the speaker's company)?
   * answer here
 * ~30:31 - What is Bryan's thoughts relating to 1st amendment rights and the right to be a customer of a product?
-  * answer here
+  * The First Amendment does not apply to private businesses.
 * ~32:31 - What is the ethical dilemma introduced by Boeing and the 737 MAX software and what were two serious results?
-  * answer here
+  * The autopilot almost crashed an airplane.
 * ~37:35 - What is right for software is not necessarily right for what?
-  * answer here
+  * Good for software does not mean good for society.
 * ~38:59 - The 2018 ACM Software Ethics is now based on what?
-  * answer here
+  * based on principles
 * ~39:44 - Instead of seeking ethics answers, what should we be doing?
-  * answer here
+  * asking tough questions.
 * ~41:14 - What is Andreessen's Corollary?
-  * answer here
+  * Ethical problems must be handled.
 
 ## Presentation Two
 
