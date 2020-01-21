@@ -17,4 +17,4 @@ I have written two books and I am in the process of getting them published.
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/Git-It Tutorial.png "Ta-Da")
+![Git Tutorial](image/Git-It Tutorial.png "Ta-Da")
